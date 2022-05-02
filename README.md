@@ -1,5 +1,5 @@
-### 취뽀! 🌱
-
+### 안녕하세요!🌱
+### 프로젝트 스토리와 관련된 내용은 저의 [블로그](https://andaconda.tistory.com/)를 봐주세요!!!
 <!--
 **AndaCondaa/AndaCondaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

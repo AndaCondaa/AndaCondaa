@@ -1,6 +1,8 @@
 #### Hello. 
 #### I am a developer who mainly uses c, c++, and python languages.
 #### I have mainly developed GUI-based applications, and I have recently been studying AI.
+#### Thank you for visiting my profile, 
+#### and any kind of contact is always welcome. lol
 <!--
 **AndaCondaa/AndaCondaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

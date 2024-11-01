@@ -1,6 +1,6 @@
-### 안녕하세요🌱
-### 이곳은 꾸준한 개발습관을 유지하고, 그 동안의 코드들을 저장하는 공간입니다.
-### 프로젝트 스토리와 관련된 내용은 저의 [블로그](https://andaconda.tistory.com/)를 봐주세요~.~
+Hello. 
+I am a developer who mainly uses c, c++, and python languages.
+I have mainly developed GUI-based applications, and I have recently been studying AI.
 <!--
 **AndaCondaa/AndaCondaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
